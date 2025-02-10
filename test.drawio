@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tJVx7SxUKysy6pdaF3h_-2" value="Utilisateur" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="80" y="200" width="200" height="200" as="geometry" />
+          <mxGeometry x="80" y="40" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-1" value="Recette" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="200" height="200" as="geometry" />
+          <mxGeometry x="80" y="430" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-2" value="Catégorie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="150" width="200" height="200" as="geometry" />
+          <mxGeometry x="600" y="430" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

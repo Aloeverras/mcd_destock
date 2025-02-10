@@ -67,11 +67,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4qgXDZa_Toy5dqRiD-m-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="G4qgXDZa_Toy5dqRiD-m-145">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="-430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-145" value="to bring" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="480" y="-260" width="140" height="80" as="geometry" />
         </mxCell>
@@ -82,21 +77,6 @@
           <mxGeometry x="-0.005" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G4qgXDZa_Toy5dqRiD-m-151" value="addition" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-510" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="G4qgXDZa_Toy5dqRiD-m-153" value="id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G4qgXDZa_Toy5dqRiD-m-151">
-          <mxGeometry x="10" y="30" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G4qgXDZa_Toy5dqRiD-m-155" value="total" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G4qgXDZa_Toy5dqRiD-m-151">
-          <mxGeometry x="10" y="50" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G4qgXDZa_Toy5dqRiD-m-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="G4qgXDZa_Toy5dqRiD-m-151" target="G4qgXDZa_Toy5dqRiD-m-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G4qgXDZa_Toy5dqRiD-m-160" value="to ask" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-624" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

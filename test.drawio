@@ -7,6 +7,11 @@
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4qgXDZa_Toy5dqRiD-m-72" target="G4qgXDZa_Toy5dqRiD-m-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G4qgXDZa_Toy5dqRiD-m-138" value="1,n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4qgXDZa_Toy5dqRiD-m-136">
+          <mxGeometry x="-0.213" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-72" value="client" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-640" width="200" height="120" as="geometry" />
         </mxCell>
@@ -22,8 +27,16 @@
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4qgXDZa_Toy5dqRiD-m-130" target="G4qgXDZa_Toy5dqRiD-m-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G4qgXDZa_Toy5dqRiD-m-139" value="1,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4qgXDZa_Toy5dqRiD-m-137">
+          <mxGeometry x="-0.0174" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-130" value="to order" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="200" y="-440" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G4qgXDZa_Toy5dqRiD-m-140" value="dish list" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G4qgXDZa_Toy5dqRiD-m-130">
+          <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-132" value="command" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-280" width="200" height="80" as="geometry" />

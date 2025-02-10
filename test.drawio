@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-72" value="client" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-440" width="200" height="120" as="geometry" />
+          <mxGeometry x="200" y="-640" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-73" value="client name" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G4qgXDZa_Toy5dqRiD-m-72">
           <mxGeometry x="10" y="60" width="80" height="30" as="geometry" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="G4qgXDZa_Toy5dqRiD-m-98" value="commande" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G4qgXDZa_Toy5dqRiD-m-72">
           <mxGeometry x="10" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G4qgXDZa_Toy5dqRiD-m-130" value="to command" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-440" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

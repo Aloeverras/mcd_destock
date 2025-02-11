@@ -163,11 +163,10 @@
         <mxCell id="Mnq4h092WNaVHmd3vgpn-56" value="to contain" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Mnq4h092WNaVHmd3vgpn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Mnq4h092WNaVHmd3vgpn-56" target="Mnq4h092WNaVHmd3vgpn-1">
+        <mxCell id="Mnq4h092WNaVHmd3vgpn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mnq4h092WNaVHmd3vgpn-56" target="Mnq4h092WNaVHmd3vgpn-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="475" y="250" />
-              <mxPoint x="320" y="250" />
+              <mxPoint x="320" y="345" />
               <mxPoint x="320" y="400" />
               <mxPoint x="215" y="400" />
             </Array>

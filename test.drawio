@@ -44,8 +44,8 @@
         <mxCell id="Mnq4h092WNaVHmd3vgpn-8" value="email" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
           <mxGeometry x="10" y="130" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mnq4h092WNaVHmd3vgpn-15" value="addition" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
-          <mxGeometry x="10" y="160" width="70" height="30" as="geometry" />
+        <mxCell id="Mnq4h092WNaVHmd3vgpn-15" value="telephone" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
+          <mxGeometry x="10" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-39" value="first name" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
           <mxGeometry x="10" y="100" width="80" height="30" as="geometry" />

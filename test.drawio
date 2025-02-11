@@ -56,8 +56,8 @@
         <mxCell id="Mnq4h092WNaVHmd3vgpn-39" value="first name" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
           <mxGeometry x="10" y="100" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mnq4h092WNaVHmd3vgpn-68" value="date de reservation" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
-          <mxGeometry x="10" y="190" width="130" height="30" as="geometry" />
+        <mxCell id="Mnq4h092WNaVHmd3vgpn-68" value="reservation date" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
+          <mxGeometry x="10" y="190" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Mnq4h092WNaVHmd3vgpn-9" target="Mnq4h092WNaVHmd3vgpn-1">
           <mxGeometry relative="1" as="geometry" />

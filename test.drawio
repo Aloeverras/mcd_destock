@@ -104,13 +104,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-24" value="to bring" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="360" width="150" height="90" as="geometry" />
+          <mxGeometry x="414" y="400" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-33" value="to cook" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="520" width="150" height="90" as="geometry" />
+          <mxGeometry x="414" y="540" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-40" value="Chef" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="550" width="200" height="100" as="geometry" />
+          <mxGeometry x="627" y="540" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-41" value="id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-40">
           <mxGeometry x="10" y="40" width="30" height="30" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="10" y="70" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-45" value="Server" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="355" width="200" height="100" as="geometry" />
+          <mxGeometry x="627" y="390" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-46" value="id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-45">
           <mxGeometry x="10" y="40" width="30" height="30" as="geometry" />

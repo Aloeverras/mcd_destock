@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-114" value="to bear" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="190" width="90" height="40" as="geometry" />
+          <mxGeometry x="199" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-117" value="Personn" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="90" height="80" as="geometry" />

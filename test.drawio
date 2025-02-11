@@ -28,13 +28,16 @@
         <mxCell id="Mnq4h092WNaVHmd3vgpn-7" value="name" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
           <mxGeometry x="10" y="70" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mnq4h092WNaVHmd3vgpn-8" value="price" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
+        <mxCell id="Mnq4h092WNaVHmd3vgpn-8" value="email" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
           <mxGeometry x="10" y="100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mnq4h092WNaVHmd3vgpn-15" value="addition" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-5">
+          <mxGeometry x="10" y="130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Mnq4h092WNaVHmd3vgpn-9" target="Mnq4h092WNaVHmd3vgpn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mnq4h092WNaVHmd3vgpn-9" value="Dishes" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Mnq4h092WNaVHmd3vgpn-9" value="to order" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="180" width="150" height="90" as="geometry" />
         </mxCell>
       </root>

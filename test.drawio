@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-19" value="restaurant employer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="325" width="200" height="160" as="geometry" />
+          <mxGeometry x="670" y="352.5" width="200" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Mnq4h092WNaVHmd3vgpn-20" value="id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Mnq4h092WNaVHmd3vgpn-19">
           <mxGeometry x="10" y="40" width="30" height="30" as="geometry" />

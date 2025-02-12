@@ -480,7 +480,7 @@
           <mxGeometry x="20" y="60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WmfGTkzMxAjrMjGQDUst-152" value="Command_Dishes" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="-130" width="130" height="90" as="geometry" />
+          <mxGeometry x="1310" y="-110" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WmfGTkzMxAjrMjGQDUst-153" value="id command" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WmfGTkzMxAjrMjGQDUst-152">
           <mxGeometry x="20" y="30" width="90" height="30" as="geometry" />

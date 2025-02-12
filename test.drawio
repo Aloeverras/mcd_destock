@@ -94,6 +94,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WmfGTkzMxAjrMjGQDUst-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmfGTkzMxAjrMjGQDUst-12" target="WmfGTkzMxAjrMjGQDUst-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WmfGTkzMxAjrMjGQDUst-96" value="1,n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WmfGTkzMxAjrMjGQDUst-94">
+          <mxGeometry x="-0.4" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WmfGTkzMxAjrMjGQDUst-12" value="Client" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="820" width="130" height="170" as="geometry" />
         </mxCell>
@@ -134,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WmfGTkzMxAjrMjGQDUst-18" value="Restaurant employer" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="225" y="710" width="130" height="80" as="geometry" />
+          <mxGeometry x="260" y="710" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WmfGTkzMxAjrMjGQDUst-19" value="id" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WmfGTkzMxAjrMjGQDUst-18">
           <mxGeometry x="20" y="30" width="30" height="30" as="geometry" />
@@ -284,6 +292,17 @@
         </mxCell>
         <mxCell id="WmfGTkzMxAjrMjGQDUst-88" value="to cook" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="390" y="910" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WmfGTkzMxAjrMjGQDUst-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmfGTkzMxAjrMjGQDUst-93" target="WmfGTkzMxAjrMjGQDUst-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WmfGTkzMxAjrMjGQDUst-97" value="1,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WmfGTkzMxAjrMjGQDUst-95">
+          <mxGeometry x="-0.08" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmfGTkzMxAjrMjGQDUst-93" value="to pay addition" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="110" y="710" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
